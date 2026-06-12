@@ -435,7 +435,7 @@ Contributed to backend API design and delivered structured technical education t
 <br/>
 
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=abdelrahmanmoamenn&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%](https://github-profile-trophy.vercel.app/?username=abdelrahmanmoamenn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=abdelrahmanmoamenn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
